@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f1796f-cc36-4690-bb42-40bd4ee54152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/test/test_source.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -229,6 +229,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.test_source" />
+      <item itemvalue="Python tests.Unittests for test.test_source" />
       <item itemvalue="Python tests.Unittests for test_source.GildedRoseTest" />
       <item itemvalue="Python tests.Unittests for test_source.TestSource" />
       <item itemvalue="Python tests.Unittests for test_source.TestSource.testWhenRollAllStrikesThenReturn300" />
@@ -258,6 +259,7 @@
       <workItem from="1560780455359" duration="1863000" />
       <workItem from="1560866693255" duration="10861000" />
       <workItem from="1560883297902" duration="883000" />
+      <workItem from="1561141375665" duration="6000" />
     </task>
     <servers />
   </component>
@@ -294,12 +296,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13608000" />
+    <option name="totallyTimeSpent" value="13614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-130" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22257721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22470714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -314,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -400,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/test/test_source.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
